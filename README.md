@@ -1,7 +1,4 @@
-Install necessary libraries
-statsmodels
-sklearn
-pandas
-numpy
-matplotlib.pyplot
-scipy
+This notebook analyzes the time series of subscription payments by the following models: ARIMA,SARIMA,PROPHET.
+You need to install the necessary libraries first!
+!pip install -r requirents.txt
+
