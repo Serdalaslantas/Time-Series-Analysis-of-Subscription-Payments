@@ -2,5 +2,5 @@ This notebook analyzes the time series of subscription payments by the following
 
 You need to install the necessary libraries first!
 
-!pip install -r requirents.txt
+!pip install -r requirements.txt
 
